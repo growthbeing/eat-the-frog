@@ -7,3 +7,6 @@ The phrase is often attributed to _Mark Twain_, who is reported to have said,
 **```"If it's your job to eat a frog, it's best to do it first thing in the morning.```**<br>
 **```And if it's your job to eat two frogs, it's best to eat the biggest one first."```**
 
+### Resources
+
+- What Is Eat the Frog? A Dead Simple System for Productivity Minimalists [https://todoist.com/productivity-methods/eat-the-frog](https://todoist.com/productivity-methods/eat-the-frog)
